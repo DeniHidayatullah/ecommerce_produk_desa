@@ -26,7 +26,7 @@ date_default_timezone_set('Asia/Jakarta');
 |
 */
 // $what = explode('/', $_SERVER['REQUEST_URI']);
-$config['base_url'] = "http://localhost/coba/admin/";
+$config['base_url'] = "http://localhost/ecommerce_produk_desa/admin/";
 
 /*
 |--------------------------------------------------------------------------
